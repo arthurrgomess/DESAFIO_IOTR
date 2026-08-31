@@ -1,0 +1,25 @@
+Discente: Arthur Roberto Gomes
+
+Docente: Amanda Paul Dull
+
+
+[![Simular no Tinkercad](https://www.tinkercad.com/things/lzlos2NDBrb-epic-inari/editel?sharecode=LUro8A7ykeQRBKOlVstbhmtbZld5ZHjrq4Px1T43VRI)]
+
+## Enunciado: Controle de Leds com o botão
+
+Este projeto consiste em um circuito utilizando o Arduino UNO, um potenciômetro e um micro servo motor. O objetivo é controlar a posição do servo motor de acordo com o movimento realizado no potenciômetro. Na prática, esse tipo de circuito pode ser utilizado em sistemas de automação, robótica, mecanismos de abertura e fechamento, entre outros projetos que necessitem controlar a movimentação de um componente.
+
+
+## Materiais necessários
+
+| Qtd | Componente |
+|-----|------------|
+| 1 | Placa Arduino UNO |
+| 1 | Cabo USB |
+| 1 | Protoboard |
+| 2 | Resistor de 200 Ω  |
+| 1 | Resistor de 10 kΩ  |
+| 1 | LED vermelho difuso de 5 mm |
+| 1 | LED azul difuso de 5 mm |
+| 1 | Botão |
+| 6 | Jumpers |
